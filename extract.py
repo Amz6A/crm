@@ -9,6 +9,7 @@ def parse_benefits(text):
     result = {
         'dinar_qty': 0,
         'gold_qty': 0,
+        'gold_grams': 0,
         'membership_qty': 0,
         'card_qty': 0,
         'tags': []
@@ -64,6 +65,12 @@ def parse_benefits(text):
         if cajas:
             result['gold_qty'] += int(cajas.group(1).replace(',', ''))
         tags.add('gold')
+
+    # GOLD GRAMS: parse GR weight from MICROLINGOTE/ORO context
+    if 'gold' in tags or 'MICROLINGOTE' in t or 'ORO' in t:
+        gr_match = re.search(r'(\d+)\s*GR', t)
+        if gr_match:
+            result['gold_grams'] = int(gr_match.group(1))
 
     # MEMBERSHIPS
     membresias = re.findall(r'(\d+)\s*MEMBRESIA', t)
@@ -210,6 +217,7 @@ def main():
                 'benefit_text': benef_text,
                 'dinar_qty': parsed['dinar_qty'],
                 'gold_qty': parsed['gold_qty'],
+                'gold_grams': parsed['gold_grams'],
                 'membership_qty': parsed['membership_qty'],
                 'card_qty': parsed['card_qty'],
                 'tags': parsed['tags'],
@@ -244,7 +252,7 @@ def main():
     cat_totals = defaultdict(int)
     flayer_counts = defaultdict(int)
     flayer_details = defaultdict(lambda: {
-        'dinar_qty': 0, 'gold_qty': 0, 'membership_qty': 0, 'card_qty': 0,
+        'dinar_qty': 0, 'gold_qty': 0, 'gold_grams': set(), 'membership_qty': 0, 'card_qty': 0,
         'tags': set(), 'purchase_count': 0, 'total_amount': 0,
         'benefit_samples': []
     })
@@ -256,6 +264,8 @@ def main():
         fd = flayer_details[p['flayer']]
         fd['dinar_qty'] += p['dinar_qty']
         fd['gold_qty'] += p['gold_qty']
+        if p['gold_grams']:
+            fd['gold_grams'].add(p['gold_grams'])
         fd['membership_qty'] += p['membership_qty']
         fd['card_qty'] += p['card_qty']
         fd['tags'].update(p['tags'])
@@ -273,6 +283,7 @@ def main():
             'count': flayer_counts[name],
             'dinar_qty': fd['dinar_qty'],
             'gold_qty': fd['gold_qty'],
+            'gold_grams': sorted(fd['gold_grams']),
             'membership_qty': fd['membership_qty'],
             'card_qty': fd['card_qty'],
             'tags': sorted(fd['tags']),

@@ -18,6 +18,7 @@
         "count": 34,
         "dinar_qty": 34,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -35,6 +36,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 7040,
+        "gold_grams": [
+          391
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -50,6 +54,9 @@
         "count": 6,
         "dinar_qty": 60,
         "gold_qty": 12,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -68,6 +75,9 @@
         "count": 1,
         "dinar_qty": 10,
         "gold_qty": 2,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -84,6 +94,9 @@
         "count": 1,
         "dinar_qty": 10,
         "gold_qty": 2,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -100,6 +113,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 2,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -115,6 +131,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 2,
+        "gold_grams": [
+          391
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -130,6 +149,9 @@
         "count": 12,
         "dinar_qty": 0,
         "gold_qty": 24,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -147,6 +169,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 2,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -162,6 +187,7 @@
         "count": 1,
         "dinar_qty": 2,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -177,6 +203,7 @@
         "count": 34,
         "dinar_qty": 68,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -194,6 +221,7 @@
         "count": 1,
         "dinar_qty": 2,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -209,6 +237,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 2,
         "tags": [
@@ -224,6 +253,7 @@
         "count": 2,
         "dinar_qty": 2,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -240,6 +270,7 @@
         "count": 1,
         "dinar_qty": 1,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -255,6 +286,9 @@
         "count": 2,
         "dinar_qty": 40,
         "gold_qty": 8,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -272,6 +306,7 @@
         "count": 1,
         "dinar_qty": 264,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -287,6 +322,7 @@
         "count": 1,
         "dinar_qty": 3,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -303,6 +339,7 @@
         "count": 2,
         "dinar_qty": 9,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -319,6 +356,7 @@
         "count": 31,
         "dinar_qty": 123,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -336,6 +374,7 @@
         "count": 18,
         "dinar_qty": 60,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -353,6 +392,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 4,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -368,6 +410,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 4,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -383,6 +428,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 4,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -398,6 +446,9 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 4,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -413,6 +464,9 @@
         "count": 4,
         "dinar_qty": 20,
         "gold_qty": 4,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -431,6 +485,9 @@
         "count": 27,
         "dinar_qty": 135,
         "gold_qty": 27,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -449,6 +506,7 @@
         "count": 1,
         "dinar_qty": 73,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -464,6 +522,7 @@
         "count": 1,
         "dinar_qty": 7,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -479,6 +538,7 @@
         "count": 4,
         "dinar_qty": 66,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -496,6 +556,7 @@
         "count": 4,
         "dinar_qty": 80,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -513,6 +574,7 @@
         "count": 1,
         "dinar_qty": 88,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -528,6 +590,7 @@
         "count": 1,
         "dinar_qty": 88,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -543,6 +606,7 @@
         "count": 9,
         "dinar_qty": 59,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -561,6 +625,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -576,6 +641,7 @@
         "count": 2,
         "dinar_qty": 0,
         "gold_qty": 2,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -592,6 +658,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [],
@@ -605,6 +672,7 @@
         "count": 4,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -622,6 +690,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 1,
         "card_qty": 0,
         "tags": [
@@ -637,6 +706,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 20,
         "card_qty": 0,
         "tags": [
@@ -652,6 +722,9 @@
         "count": 41,
         "dinar_qty": 337,
         "gold_qty": 5269,
+        "gold_grams": [
+          100
+        ],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -670,6 +743,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -685,6 +759,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 50,
         "card_qty": 0,
         "tags": [
@@ -700,6 +775,7 @@
         "count": 250,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 260,
         "card_qty": 0,
         "tags": [
@@ -717,6 +793,7 @@
         "count": 67,
         "dinar_qty": 378,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 7,
         "card_qty": 0,
         "tags": [
@@ -736,6 +813,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -751,6 +829,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -766,6 +845,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -781,6 +861,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 0,
         "tags": [
@@ -796,6 +877,7 @@
         "count": 1,
         "dinar_qty": 0,
         "gold_qty": 0,
+        "gold_grams": [],
         "membership_qty": 0,
         "card_qty": 1,
         "tags": [
@@ -830,6 +912,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -848,6 +931,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -881,6 +965,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -899,6 +984,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -932,6 +1018,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -950,6 +1037,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -983,6 +1071,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1001,6 +1090,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1034,6 +1124,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1052,6 +1143,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1085,6 +1177,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1103,6 +1196,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1136,6 +1230,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1153,6 +1248,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 5 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 5,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1187,6 +1283,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1206,6 +1303,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1239,6 +1337,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1257,6 +1356,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1290,6 +1390,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1308,6 +1409,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1341,6 +1443,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1359,6 +1462,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1392,6 +1496,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $400,000 EQUIVALENTE A 28 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 28,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1410,6 +1515,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1427,6 +1533,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1461,6 +1568,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1479,6 +1587,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1512,6 +1621,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1530,6 +1640,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1563,6 +1674,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1581,6 +1693,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1614,6 +1727,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1632,6 +1746,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1665,6 +1780,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1682,6 +1798,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1715,6 +1832,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1732,6 +1850,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1765,6 +1884,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1782,6 +1902,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1799,6 +1920,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1832,6 +1954,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1849,6 +1972,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1882,6 +2006,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1899,6 +2024,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1932,6 +2058,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1949,6 +2076,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -1966,6 +2094,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -1999,6 +2128,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2016,6 +2146,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2049,6 +2180,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2067,6 +2199,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2100,6 +2233,7 @@
           "benefit_text": "9 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 9,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2117,6 +2251,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2150,6 +2285,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2167,6 +2303,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2201,6 +2338,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2218,6 +2356,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2251,6 +2390,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2268,6 +2408,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2302,6 +2443,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2319,6 +2461,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2352,6 +2495,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2369,6 +2513,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2402,6 +2547,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2420,6 +2566,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2453,6 +2600,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -2470,6 +2618,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2487,6 +2636,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2521,6 +2671,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2538,6 +2689,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2571,6 +2723,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2588,6 +2741,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2622,6 +2776,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2640,6 +2795,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2673,6 +2829,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2690,6 +2847,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2723,6 +2881,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2740,6 +2899,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2773,6 +2933,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2792,6 +2953,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2825,6 +2987,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2843,6 +3006,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2876,6 +3040,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2894,6 +3059,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2927,6 +3093,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2944,6 +3111,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -2961,6 +3129,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -2995,6 +3164,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3013,6 +3183,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3046,6 +3217,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3063,6 +3235,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3096,6 +3269,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3113,6 +3287,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3146,6 +3321,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3164,6 +3340,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3181,6 +3358,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3214,6 +3392,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3233,6 +3412,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3266,6 +3446,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3283,6 +3464,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3317,6 +3499,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3334,6 +3517,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3367,6 +3551,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3384,6 +3569,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3417,6 +3603,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3435,6 +3622,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3468,6 +3656,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3485,6 +3674,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3518,6 +3708,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3536,6 +3727,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3553,6 +3745,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3586,6 +3779,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3603,6 +3797,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3636,6 +3831,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3654,6 +3850,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3671,6 +3868,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3704,6 +3902,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3722,6 +3921,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3755,6 +3955,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3772,6 +3973,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3805,6 +4007,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3823,6 +4026,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3840,6 +4044,7 @@
           "benefit_text": "4 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 0,
           "gold_qty": 4,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3873,6 +4078,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3890,6 +4096,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3923,6 +4130,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3940,6 +4148,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -3973,6 +4182,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -3990,6 +4200,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4023,6 +4234,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4040,6 +4252,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 5 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 5,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4074,6 +4287,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4091,6 +4305,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4125,6 +4340,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4142,6 +4358,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4175,6 +4392,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4192,6 +4410,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4225,6 +4444,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4242,6 +4462,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 20 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 20,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4276,6 +4497,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4293,6 +4515,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4326,6 +4549,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4344,6 +4568,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4377,6 +4602,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4394,6 +4620,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4427,6 +4654,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4444,6 +4672,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4477,6 +4706,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4495,6 +4725,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4512,6 +4743,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4545,6 +4777,7 @@
           "benefit_text": "264 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 264,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4562,6 +4795,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4595,6 +4829,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4613,6 +4848,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4646,6 +4882,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4663,6 +4900,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4696,6 +4934,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4714,6 +4953,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4747,6 +4987,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4764,6 +5005,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4797,6 +5039,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4814,6 +5057,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4831,6 +5075,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4864,6 +5109,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4881,6 +5127,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4915,6 +5162,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4933,6 +5181,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -4966,6 +5215,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -4983,6 +5233,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5000,6 +5251,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5033,6 +5285,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5051,6 +5304,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5084,6 +5338,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5101,6 +5356,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5135,6 +5391,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5153,6 +5410,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5186,6 +5444,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5204,6 +5463,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5237,6 +5497,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 22 DE 73 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 300000 COP",
           "dinar_qty": 22,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5254,6 +5515,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5287,6 +5549,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -5304,6 +5567,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5321,6 +5585,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5355,6 +5620,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5372,6 +5638,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5405,6 +5672,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 20 DE 80 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 275000 COP",
           "dinar_qty": 20,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5422,6 +5690,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5439,6 +5708,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5457,6 +5727,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5490,6 +5761,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5508,6 +5780,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5525,6 +5798,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 5 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 5,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5543,6 +5817,7 @@
           "benefit_text": "N/A",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [],
@@ -5574,6 +5849,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5591,6 +5867,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5608,6 +5885,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5641,6 +5919,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5659,6 +5938,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5676,6 +5956,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5709,6 +5990,7 @@
           "benefit_text": "88 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 88,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5726,6 +6008,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5759,6 +6042,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5776,6 +6060,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5809,6 +6094,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5826,6 +6112,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5859,6 +6146,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5877,6 +6165,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5910,6 +6199,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5928,6 +6218,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -5961,6 +6252,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -5978,6 +6270,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -5995,6 +6288,7 @@
           "benefit_text": "234 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 15 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 15,
           "gold_qty": 234,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6029,6 +6323,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6046,6 +6341,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6080,6 +6376,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6098,6 +6395,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6131,6 +6429,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6148,6 +6447,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6165,6 +6465,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6198,6 +6499,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6215,6 +6517,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6249,6 +6552,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 20 DE 80 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 275000 COP",
           "dinar_qty": 20,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6266,6 +6570,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6299,6 +6604,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6316,6 +6622,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6349,6 +6656,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6367,6 +6675,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6400,6 +6709,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6418,6 +6728,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6451,6 +6762,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6468,6 +6780,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6501,6 +6814,7 @@
           "benefit_text": "1 CONTENEDOR DE ORO DE 7,040 CAJAS X 500 UNDS DE MICROLINGOTES X 391 GR.",
           "dinar_qty": 0,
           "gold_qty": 7040,
+          "gold_grams": 391,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6518,6 +6832,7 @@
           "benefit_text": "1 MEMBRESIA DE 100 BI DONACION AUTORIZADA POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6551,6 +6866,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6568,6 +6884,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6601,6 +6918,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6618,6 +6936,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6652,6 +6971,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6670,6 +6990,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6703,6 +7024,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6720,6 +7042,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6753,6 +7076,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6770,6 +7094,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6804,6 +7129,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6822,6 +7148,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6839,6 +7166,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6872,6 +7200,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 22 DE 73 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 300000 COP",
           "dinar_qty": 22,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6889,6 +7218,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6922,6 +7252,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -6940,6 +7271,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -6973,6 +7305,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -6990,6 +7323,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7007,6 +7341,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7041,6 +7376,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7058,6 +7394,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7075,6 +7412,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7092,6 +7430,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7109,6 +7448,7 @@
           "benefit_text": "4 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR",
           "dinar_qty": 0,
           "gold_qty": 4,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7126,6 +7466,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES DE ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7160,6 +7501,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7177,6 +7519,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7211,6 +7554,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7228,6 +7572,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7261,6 +7606,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7278,6 +7624,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7312,6 +7659,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7329,6 +7677,7 @@
           "benefit_text": "355 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 22 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 22,
           "gold_qty": 355,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7363,6 +7712,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7381,6 +7731,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7414,6 +7765,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7431,6 +7783,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7465,6 +7818,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7482,6 +7836,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7515,6 +7870,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7532,6 +7888,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7565,6 +7922,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7582,6 +7940,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7616,6 +7975,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7633,6 +7993,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7650,6 +8011,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7667,6 +8029,7 @@
           "benefit_text": "CAJAS DE DINARES X 40.000 NOTAS",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7684,6 +8047,7 @@
           "benefit_text": "CAJAS DE DINARES X 40.000 NOTAS",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7701,6 +8065,7 @@
           "benefit_text": "CAJAS DE DINARES X 40.000 NOTAS",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7718,6 +8083,7 @@
           "benefit_text": "CAJAS DE DINARES X 40.000 NOTAS",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7735,6 +8101,7 @@
           "benefit_text": "2 TARJETAS DE 50 USD",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 2,
           "tags": [
@@ -7752,6 +8119,7 @@
           "benefit_text": "1 TARJETA DE 60 BI MAS REGALO SORPRESA",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 1,
           "tags": [
@@ -7769,6 +8137,7 @@
           "benefit_text": "PROCESO INICIO 2025",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7786,6 +8155,7 @@
           "benefit_text": "FINITO 20 MEMBRECIAS",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 20,
           "card_qty": 0,
           "tags": [
@@ -7803,6 +8173,7 @@
           "benefit_text": "OPORTUNIDAD XVII\"Q\" ORO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7820,6 +8191,7 @@
           "benefit_text": "CAJA DE MICROLINGOTES POR 500",
           "dinar_qty": 0,
           "gold_qty": 1,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7837,6 +8209,7 @@
           "benefit_text": "CAJA DE MICROLINGOTES POR 500",
           "dinar_qty": 0,
           "gold_qty": 1,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7854,6 +8227,7 @@
           "benefit_text": "PRIMA SOLUCIONES",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7871,6 +8245,7 @@
           "benefit_text": "PRIMA SOLUCIONES POR 2",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7888,6 +8263,7 @@
           "benefit_text": "PROYECTO FINITO BODEGAZO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7921,6 +8297,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7938,6 +8315,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -7971,6 +8349,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -7989,6 +8368,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8022,6 +8402,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8039,6 +8420,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8072,6 +8454,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8089,6 +8472,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8122,6 +8506,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8139,6 +8524,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8172,6 +8558,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8189,6 +8576,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8206,6 +8594,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8239,6 +8628,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8257,6 +8647,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8290,6 +8681,7 @@
           "benefit_text": "N/A",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [],
@@ -8305,6 +8697,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8322,6 +8715,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8340,6 +8734,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8373,6 +8768,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8391,6 +8787,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8424,6 +8821,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8441,6 +8839,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8458,6 +8857,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8491,6 +8891,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8509,6 +8910,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8542,6 +8944,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8560,6 +8963,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8593,6 +8997,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8610,6 +9015,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8644,6 +9050,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8661,6 +9068,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8694,6 +9102,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8711,6 +9120,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8744,6 +9154,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8761,6 +9172,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8794,6 +9206,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8812,6 +9225,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8845,6 +9259,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8862,6 +9277,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8896,6 +9312,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8913,6 +9330,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8947,6 +9365,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -8965,6 +9384,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -8998,6 +9418,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9015,6 +9436,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9048,6 +9470,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9065,6 +9488,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9082,6 +9506,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9115,6 +9540,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9133,6 +9559,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9166,6 +9593,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9183,6 +9611,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9217,6 +9646,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9234,6 +9664,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9267,6 +9698,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9284,6 +9716,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9317,6 +9750,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9335,6 +9769,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9352,6 +9787,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9385,6 +9821,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9402,6 +9839,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9435,6 +9873,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9454,6 +9893,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9487,6 +9927,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9504,6 +9945,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9538,6 +9980,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 20 DE 80 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 275000 COP",
           "dinar_qty": 20,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9555,6 +9998,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9572,6 +10016,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9590,6 +10035,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9607,6 +10053,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9640,6 +10087,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $160,000 EQUIVALENTE A 10 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 10,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9658,6 +10106,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9691,6 +10140,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9708,6 +10158,7 @@
           "benefit_text": "9 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 9,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9741,6 +10192,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9758,6 +10210,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9791,6 +10244,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9808,6 +10262,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9841,6 +10296,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9859,6 +10315,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9892,6 +10349,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -9909,6 +10367,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9926,6 +10385,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -9960,6 +10420,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -9977,6 +10438,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10011,6 +10473,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10029,6 +10492,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10062,6 +10526,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -10079,6 +10544,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10096,6 +10562,7 @@
           "benefit_text": "4 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR",
           "dinar_qty": 0,
           "gold_qty": 4,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10113,6 +10580,7 @@
           "benefit_text": "2 CAJAS DE MICROLINGOTES DE ORO X 500 UNDS, X 100 GR",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10130,6 +10598,7 @@
           "benefit_text": "50 MEMBRESIAS DORADAS DE 100 BI CADA UNA",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 50,
           "card_qty": 0,
           "tags": [
@@ -10147,6 +10616,7 @@
           "benefit_text": "1 BONUS BRASIL",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10180,6 +10650,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10197,6 +10668,7 @@
           "benefit_text": "312 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 20 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 20,
           "gold_qty": 312,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10231,6 +10703,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10249,6 +10722,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10282,6 +10756,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10301,6 +10776,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10319,6 +10795,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -10336,6 +10813,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS. BONO DE LIDERAZGO AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10370,6 +10848,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10387,6 +10866,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10420,6 +10900,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10437,6 +10918,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10471,6 +10953,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10488,6 +10971,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10521,6 +11005,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10539,6 +11024,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10572,6 +11058,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10589,6 +11076,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10622,6 +11110,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $400,000 EQUIVALENTE A 24 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 24,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10640,6 +11129,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10673,6 +11163,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10690,6 +11181,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10724,6 +11216,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10741,6 +11234,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10775,6 +11269,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10792,6 +11287,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10825,6 +11321,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10842,6 +11339,7 @@
           "benefit_text": "312 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 20 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 20,
           "gold_qty": 312,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10876,6 +11374,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10893,6 +11392,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10927,6 +11427,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10944,6 +11445,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -10977,6 +11479,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -10995,6 +11498,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11012,6 +11516,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11045,6 +11550,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -11062,6 +11568,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11079,6 +11586,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11113,6 +11621,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11131,6 +11640,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11164,6 +11674,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11182,6 +11693,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11215,6 +11727,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $250,000 EQUIVALENTE A 17 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 17,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11233,6 +11746,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11250,6 +11764,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 5 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 5,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11268,6 +11783,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11301,6 +11817,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11319,6 +11836,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11352,6 +11870,7 @@
           "benefit_text": "4 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 4,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11369,6 +11888,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11402,6 +11922,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11419,6 +11940,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11453,6 +11975,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 7 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11471,6 +11994,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11504,6 +12028,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11521,6 +12046,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11554,6 +12080,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11572,6 +12099,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11605,6 +12133,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11623,6 +12152,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11640,6 +12170,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11673,6 +12204,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $150,000 EQUIVALENTE A 10 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 10,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11691,6 +12223,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11708,6 +12241,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11741,6 +12275,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11759,6 +12294,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11792,6 +12328,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11809,6 +12346,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11842,6 +12380,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -11859,6 +12398,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11876,6 +12416,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11910,6 +12451,7 @@
           "benefit_text": "88 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 88,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11927,6 +12469,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -11944,6 +12487,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11961,6 +12505,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -11995,6 +12540,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12012,6 +12558,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12046,6 +12593,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12064,6 +12612,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12097,6 +12646,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12114,6 +12664,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12147,6 +12698,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12164,6 +12716,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12197,6 +12750,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12215,6 +12769,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12232,6 +12787,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12265,6 +12821,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12282,6 +12839,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12315,6 +12873,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12332,6 +12891,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12349,6 +12909,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12382,6 +12943,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12400,6 +12962,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12417,6 +12980,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12450,6 +13014,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12468,6 +13033,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12485,6 +13051,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12518,6 +13085,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 22 DE 73 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 300000 COP",
           "dinar_qty": 22,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12535,6 +13103,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12552,6 +13121,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12585,6 +13155,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12602,6 +13173,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12635,6 +13207,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12652,6 +13225,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12685,6 +13259,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12703,6 +13278,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12736,6 +13312,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12753,6 +13330,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12786,6 +13364,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12804,6 +13383,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12837,6 +13417,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 7 DE 73 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 100000 COP",
           "dinar_qty": 7,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12854,6 +13435,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12887,6 +13469,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $200,000 EQUIVALENTE A 14 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 14,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12905,6 +13488,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -12922,6 +13506,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 10 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 10,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12956,6 +13541,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -12973,6 +13559,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13006,6 +13593,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13023,6 +13611,7 @@
           "benefit_text": "312 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 20 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 20,
           "gold_qty": 312,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13057,6 +13646,7 @@
           "benefit_text": "20 CAJAS DINARES IRAKIES ROJOS + 4 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 20,
           "gold_qty": 4,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13075,6 +13665,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13108,6 +13699,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $100,000 EQUIVALENTE A 6 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13127,6 +13719,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13160,6 +13753,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13177,6 +13771,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13211,6 +13806,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13228,6 +13824,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 1 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13262,6 +13859,7 @@
           "benefit_text": "20 CAJAS DINARES IRAKIES ROJOS + 4 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 20,
           "gold_qty": 4,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13280,6 +13878,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13313,6 +13912,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13331,6 +13931,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13364,6 +13965,7 @@
           "benefit_text": "COMPRA COMPARTIDA - YO RECIBO 20 DE 80 CAJAS DINARES IRAKIES ROJOS, NEGOCIACION CON MARIA ELVIRA SUS MERLANO POR 275000 COP",
           "dinar_qty": 20,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13381,6 +13983,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13398,6 +14001,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13416,6 +14020,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13449,6 +14054,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13467,6 +14073,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13500,6 +14107,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13518,6 +14126,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13551,6 +14160,7 @@
           "benefit_text": "10 CAJAS DINARES IRAKIES ROJOS + 2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 10,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13569,6 +14179,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13602,6 +14213,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13620,6 +14232,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13637,6 +14250,7 @@
           "benefit_text": "6 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 6,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13670,6 +14284,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13688,6 +14303,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13721,6 +14337,7 @@
           "benefit_text": "9 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 9,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13738,6 +14355,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13755,6 +14373,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13788,6 +14407,7 @@
           "benefit_text": "DONACION 2 MEMBRESIAS DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 2,
           "card_qty": 0,
           "tags": [
@@ -13805,6 +14425,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13822,6 +14443,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13856,6 +14478,7 @@
           "benefit_text": "1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13873,6 +14496,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13906,6 +14530,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13923,6 +14548,7 @@
           "benefit_text": "156 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 10 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 10,
           "gold_qty": 156,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -13957,6 +14583,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -13974,6 +14601,7 @@
           "benefit_text": "78 CAJAS MICROLINGOTES DE ORO X 500 UND X 100GR + 5 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 5,
           "gold_qty": 78,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14008,6 +14636,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14026,6 +14655,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14043,6 +14673,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS (PROMO)",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14076,6 +14707,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14094,6 +14726,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14127,6 +14760,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14144,6 +14778,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14177,6 +14812,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14194,6 +14830,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14227,6 +14864,7 @@
           "benefit_text": "1 CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14244,6 +14882,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14277,6 +14916,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14294,6 +14934,7 @@
           "benefit_text": "BONO DE LIDERAZGO AUTORIZADO POR LA SEÑORA MARIA ELVIRA SUS ESTIPULADO EN 5 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 5,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14312,6 +14953,7 @@
           "benefit_text": "2 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14329,6 +14971,7 @@
           "benefit_text": "2 CAJA MICROLINGOTES ORO X 500 UND X 391GR",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 391,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14362,6 +15005,7 @@
           "benefit_text": "2 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 2,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14379,6 +15023,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14412,6 +15057,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $250,000 EQUIVALENTE A 17 CAJAS DE DINARES ROJOS IRAQUIES + 1 MEMBRESIAS DE 100 BI",
           "dinar_qty": 17,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14431,6 +15077,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14464,6 +15111,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14482,6 +15130,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14515,6 +15164,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $350,000 EQUIVALENTE A 24 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 24,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14533,6 +15183,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14550,6 +15201,7 @@
           "benefit_text": "2 X 1  CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14567,6 +15219,7 @@
           "benefit_text": "2 X 1  CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14584,6 +15237,7 @@
           "benefit_text": "2 X 1  CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 1,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14601,6 +15255,7 @@
           "benefit_text": "73  CAJA DINARES IRAKIES ROJOS",
           "dinar_qty": 73,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14618,6 +15273,7 @@
           "benefit_text": "4 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 0,
           "gold_qty": 4,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14651,6 +15307,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14668,6 +15325,7 @@
           "benefit_text": "3 CAJAS DINARES IRAKIES ROJOS",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14701,6 +15359,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $50,000 EQUIVALENTE A 3 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 3,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14719,6 +15378,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14752,6 +15412,7 @@
           "benefit_text": "2 CAJAS MICROLINGOTES ORO X 500 UND X 100GR AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 2,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14769,6 +15430,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14802,6 +15464,7 @@
           "benefit_text": "5 CAJAS DINARES IRAKIES ROJOS + 1 CAJA MICROLINGOTES ORO X 500 UND X 100GR",
           "dinar_qty": 5,
           "gold_qty": 1,
+          "gold_grams": 100,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14820,6 +15483,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
@@ -14853,6 +15517,7 @@
           "benefit_text": "VAQUITA  CONSIGNACION $250,000 EQUIVALENTE A 17 CAJAS DE DINARES ROJOS IRAQUIES",
           "dinar_qty": 17,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 0,
           "card_qty": 0,
           "tags": [
@@ -14871,6 +15536,7 @@
           "benefit_text": "DONACION 1 MEMBRESIA DE 100 BI AUTORIZADO POR MARIA ELVIRA SUS MERLANO",
           "dinar_qty": 0,
           "gold_qty": 0,
+          "gold_grams": 0,
           "membership_qty": 1,
           "card_qty": 0,
           "tags": [
