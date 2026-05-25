@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Comercial - Proyecto Funlidi</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#faf8f2;--surface:#ffffff;--surface2:#fdf6e3;--border:#ede5d0;--border2:#e0d8c0;--text:#2c2822;--text2:#8a8578;--accent:#d4a017;--accent2:#c4956a;--accent3:#e8a0a0;--green:#7ca342;--orange:#e6a017;--red:#d4756b;--blue:#5a8ec4;--purple:#a98fcf}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+nav{position:sticky;top:0;z-index:100;background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;padding:0 24px;gap:4px;overflow-x:auto}
+nav .brand{font-weight:700;font-size:15px;padding:16px 20px 16px 0;margin-right:8px;border-right:1px solid var(--border);white-space:nowrap;background:linear-gradient(135deg,var(--accent),var(--accent2));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+nav button{background:none;border:none;color:var(--text2);padding:14px 18px;cursor:pointer;font-size:13px;font-weight:500;white-space:nowrap;border-bottom:2px solid transparent;transition:.2s}
+nav button:hover{color:var(--text);background:var(--surface2)}
+nav button.active{color:var(--accent);border-bottom-color:var(--accent)}
+.section{display:none;padding:24px 28px;max-width:1400px;margin:0 auto}
+.section.active{display:block}
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:16px;margin-bottom:28px}
+.kpi-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:20px}
+.kpi-card .label{font-size:12px;color:var(--text2);text-transform:uppercase;letter-spacing:.5px;margin-bottom:6px}
+.kpi-card .value{font-size:28px;font-weight:700}
+.kpi-card .sub{font-size:12px;color:var(--text2);margin-top:4px}
+.kpi-card .icon{float:right;font-size:24px;opacity:.4}
+.tag{display:inline-block;padding:2px 10px;border-radius:20px;font-size:11px;font-weight:600;text-transform:uppercase;margin:1px}
+.tag-dinar{background:#e0f5f0;color:#2a9d8f}
+.tag-gold{background:#fef3d5;color:#c4910a}
+.tag-membership{background:#e0edf8;color:#4a7eb4}
+.tag-vaquita{background:#eee8fc;color:#7a5fb4}
+.tag-bonus{background:#fce4ec;color:#c4657a}
+.tag-card{background:#e0f0e0;color:#4a8a5a}
+.tag-other{background:#e8e4de;color:#7a7568}
+.filter-bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px;align-items:center}
+.filter-bar .filter-label{font-size:12px;color:var(--text2);margin-right:8px}
+.filter-btn{padding:6px 16px;border-radius:20px;border:1px solid var(--border);background:var(--surface);color:var(--text2);cursor:pointer;font-size:12px;font-weight:500;transition:.2s}
+.filter-btn:hover{border-color:var(--text2);color:var(--text)}
+.filter-btn.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{text-align:left;padding:10px 12px;color:var(--text2);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.5px;border-bottom:1px solid var(--border);cursor:pointer;user-select:none;position:sticky;top:0;background:var(--surface)}
+th:hover{color:var(--text)}
+td{padding:9px 12px;border-bottom:1px solid var(--border2)}
+tr:hover td{background:var(--surface2)}
+.table-wrap{overflow-x:auto;border:1px solid var(--border);border-radius:10px;background:var(--surface)}
+.table-wrap table th{background:var(--surface)}
+.search-bar{width:100%;padding:10px 16px;border:1px solid var(--border);border-radius:8px;background:var(--surface2);color:var(--text);font-size:13px;margin-bottom:14px}
+.search-bar:focus{outline:none;border-color:var(--accent)}
+.flayer-group{margin-bottom:16px;background:var(--surface);border:1px solid var(--border);border-radius:10px;overflow:hidden}
+.flayer-group-header{padding:14px 18px;cursor:pointer;display:flex;align-items:center;justify-content:space-between;transition:.2s;font-weight:600}
+.flayer-group-header:hover{background:var(--surface2)}
+.flayer-group-header .count-badge{background:var(--accent);color:#fff;padding:2px 12px;border-radius:20px;font-size:12px}
+.flayer-group-body{display:none;border-top:1px solid var(--border)}
+.flayer-group-body.open{display:block}
+.flayer-row{padding:10px 18px;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px;border-bottom:1px solid var(--border2)}
+.flayer-row:last-child{border-bottom:none}
+.flayer-row:hover{background:var(--surface2)}
+.flayer-row .name{flex:1;min-width:200px;font-size:13px}
+.flayer-row .stats{display:flex;gap:16px;font-size:12px}
+.flayer-row .stats span{white-space:nowrap}
+.chart-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:20px;margin-bottom:28px}
+.chart-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:20px}
+.chart-card h3{font-size:14px;margin-bottom:14px;color:var(--text2);font-weight:500}
+canvas{max-height:320px}
+.member-detail{padding:20px;background:var(--surface);border:1px solid var(--border);border-radius:10px;margin-top:16px}
+.member-detail h3{font-size:16px;margin-bottom:12px}
+.member-detail .info-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin-bottom:16px}
+.member-detail .info-item label{font-size:11px;color:var(--text2);display:block;margin-bottom:2px}
+.member-detail .info-item span{font-size:13px}
+select{background:var(--surface2);color:var(--text);border:1px solid var(--border);padding:10px 14px;border-radius:8px;font-size:13px;width:100%;max-width:400px;margin-bottom:16px}
+select:focus{outline:none;border-color:var(--accent)}
+.pagination{display:flex;justify-content:center;gap:6px;margin-top:16px;flex-wrap:wrap}
+.pagination button{background:var(--surface);border:1px solid var(--border);color:var(--text2);padding:6px 14px;border-radius:6px;cursor:pointer;font-size:12px}
+.pagination button:hover{background:var(--surface2);color:var(--text)}
+.pagination button.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.empty-state{padding:40px;text-align:center;color:var(--text2);font-size:14px}
+.benefit-sample{font-size:11px;color:var(--text2);margin-top:4px;max-width:400px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.highlight{color:var(--accent2)}
+.text-right{text-align:right}
+@media(max-width:768px){.section{padding:16px}.kpi-grid{grid-template-columns:1fr 1fr}.chart-grid{grid-template-columns:1fr}nav .brand{display:none}nav button{padding:10px 12px;font-size:12px}}
+</style>
+</head>
+<body>
+
+<nav id="nav">
+  <div class="brand">FUNLIDI CRM</div>
+  <button class="active" data-section="resumen">📊 Resumen</button>
+  <button data-section="miembros">📋 Miembros</button>
+  <button data-section="promociones">🏷️ Promociones</button>
+  <button data-section="graficos">📈 Gráficos</button>
+  <button data-section="detalle">🔍 Detalle</button>
+</nav>
+
+<div id="section-resumen" class="section active"></div>
+<div id="section-miembros" class="section"></div>
+<div id="section-promociones" class="section"></div>
+<div id="section-graficos" class="section"></div>
+<div id="section-detalle" class="section"></div>
+
+<script>
+let DATA = null;
+let charts = {};
+
+document.addEventListener('DOMContentLoaded', async () => {
+  try {
+    const resp = await fetch('dashboard-data.json');
+    DATA = await resp.json();
+    renderAll();
+  } catch(e) {
+    document.body.innerHTML = `<div style="padding:40px;text-align:center;color:var(--accent3)">
+      <h2>Error al cargar datos</h2>
+      <p>${e.message}</p>
+      <p style="margin-top:12px;color:var(--text2)">Asegúrate de que dashboard-data.json esté en la misma carpeta.</p>
+    </div>`;
+  }
+});
+
+function renderAll() {
+  renderResumen();
+  renderMiembros();
+  renderPromociones();
+  renderGraficos();
+  renderDetalle();
+  setupNav();
+  setupFilters();
+}
+
+function setupNav() {
+  document.querySelectorAll('nav button').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('nav button').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+      document.getElementById('section-' + btn.dataset.section).classList.add('active');
+      // Resize charts when section becomes visible
+      Object.values(charts).forEach(c => { if (c && c.resize) c.resize(); });
+    });
+  });
+}
+
+// ========== SECTION 1: RESUMEN ==========
+function renderResumen() {
+  const s = DATA.summary;
+  const m = DATA.members;
+  const topBuyers = [...m].sort((a,b) => b.purchase_count - a.purchase_count).slice(0,10);
+  const catNames = {dinar:'Dinares',gold:'Oro',membership:'Membresías',vaquita:'Vaquita',bonus:'Bonos',card:'Tarjetas',other:'Otros'};
+  let html = `
+    <div class="kpi-grid">
+      <div class="kpi-card"><span class="icon">👥</span><div class="label">Miembros</div><div class="value">${s.total_members}</div></div>
+      <div class="kpi-card"><span class="icon">🛒</span><div class="label">Compras Totales</div><div class="value">${s.total_purchases}</div></div>
+      <div class="kpi-card"><span class="icon">💰</span><div class="label">Total Recaudado</div><div class="value">$${(s.total_collected/1e6).toFixed(1)}M</div><div class="sub">$${s.total_collected.toLocaleString()}</div></div>
+      <div class="kpi-card"><span class="icon">🏷️</span><div class="label">Tipos de Promoción</div><div class="value">${s.flayers.length}</div></div>
+      <div class="kpi-card"><span class="icon">📦</span><div class="label">Promedio x Miembro</div><div class="value">${(s.total_purchases/s.total_members).toFixed(1)}</div><div class="sub">compras por persona</div></div>
+      <div class="kpi-card"><span class="icon">💳</span><div class="label">Pago Principal</div><div class="value">NEQUI</div><div class="sub">94% de las transacciones</div></div>
+    </div>
+    <div class="kpi-grid">
+      <div class="kpi-card"><div class="label">🏆 Top Compradores</div>
+        <table style="font-size:12px;margin-top:8px">
+          <tr><th style="background:var(--surface)">#</th><th style="background:var(--surface)">Nombre</th><th style="background:var(--surface);text-align:right">Compras</th><th style="background:var(--surface);text-align:right">Total</th></tr>
+          ${topBuyers.map((b,i) => `<tr><td>${i+1}</td><td>${b.name}</td><td class="text-right">${b.purchase_count}</td><td class="text-right">$${(b.total_spent||0).toLocaleString()}</td></tr>`).join('')}
+        </table>
+      </div>
+      <div class="kpi-card"><div class="label">🏷️ Compras por Categoría</div>
+        <table style="font-size:12px;margin-top:8px">
+          <tr><th style="background:var(--surface)">Categoría</th><th style="background:var(--surface);text-align:right">Compras</th></tr>
+          ${Object.entries(s.category_totals).sort((a,b)=>b[1]-a[1]).map(([k,v]) => `<tr><td><span class="tag tag-${k}">${catNames[k]||k}</span></td><td class="text-right">${v}</td></tr>`).join('')}
+        </table>
+      </div>
+    </div>
+  `;
+  document.getElementById('section-resumen').innerHTML = html;
+}
+
+// ========== SECTION 2: MIEMBROS ==========
+let miembrosSort = {key:'purchase_count',dir:-1};
+let miembrosPage = 0;
+const PAGE_SIZE = 25;
+
+function renderMiembros() {
+  let members = [...DATA.members];
+  // sort
+  members.sort((a,b) => {
+    let va = a[miembrosSort.key], vb = b[miembrosSort.key];
+    if (typeof va === 'string') va = va.toLowerCase();
+    if (typeof vb === 'string') vb = vb.toLowerCase();
+    if (va < vb) return -1 * miembrosSort.dir;
+    if (va > vb) return 1 * miembrosSort.dir;
+    return 0;
+  });
+
+  const totalPages = Math.ceil(members.length / PAGE_SIZE);
+  if (miembrosPage >= totalPages) miembrosPage = totalPages - 1;
+  if (miembrosPage < 0) miembrosPage = 0;
+  const start = miembrosPage * PAGE_SIZE;
+  const page = members.slice(start, start + PAGE_SIZE);
+
+  const sortKey = (k) => {
+    if (miembrosSort.key === k) miembrosSort.dir *= -1;
+    else { miembrosSort.key = k; miembrosSort.dir = -1; }
+    renderMiembros();
+  };
+  const arrow = (k) => miembrosSort.key === k ? (miembrosSort.dir === -1 ? ' ▼' : ' ▲') : '';
+
+  let html = `
+    <input type="text" class="search-bar" id="miembros-search" placeholder="Buscar por nombre, cédula, email..." oninput="filterMiembros(this.value)">
+    <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th onclick="miembrosSortKey('name')">Nombre${arrow('name')}</th>
+          <th onclick="miembrosSortKey('cedula')">Cédula${arrow('cedula')}</th>
+          <th onclick="miembrosSortKey('email')">Email${arrow('email')}</th>
+          <th onclick="miembrosSortKey('phone')">Teléfono${arrow('phone')}</th>
+          <th onclick="miembrosSortKey('department')">Ubicación${arrow('department')}</th>
+          <th onclick="miembrosSortKey('purchase_count')" class="text-right">Compras${arrow('purchase_count')}</th>
+          <th onclick="miembrosSortKey('total_spent')" class="text-right">Total$${arrow('total_spent')}</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${page.map(m => `<tr>
+          <td style="font-weight:500">${m.name}</td>
+          <td style="color:var(--text2)">${m.cedula}</td>
+          <td style="color:var(--text2);font-size:12px">${m.email}</td>
+          <td style="color:var(--text2);font-size:12px">${m.phone}</td>
+          <td style="color:var(--text2);font-size:12px">${[m.city,m.department,m.country].filter(Boolean).join(', ')}</td>
+          <td class="text-right">${m.purchase_count}</td>
+          <td class="text-right">$${(m.total_spent||0).toLocaleString()}</td>
+        </tr>`).join('')}
+      </tbody>
+    </table>
+    </div>
+    <div class="pagination">
+      <button onclick="miembrosPage=0;renderMiembros()" ${miembrosPage===0?'disabled':''}>««</button>
+      <button onclick="miembrosPage=Math.max(0,miembrosPage-1);renderMiembros()" ${miembrosPage===0?'disabled':''}>«</button>
+      <span style="padding:6px 12px;font-size:12px;color:var(--text2)">Página ${miembrosPage+1} de ${totalPages}</span>
+      <button onclick="miembrosPage=Math.min(${totalPages-1},miembrosPage+1);renderMiembros()" ${miembrosPage>=totalPages-1?'disabled':''}>»</button>
+      <button onclick="miembrosPage=${totalPages-1};renderMiembros()" ${miembrosPage>=totalPages-1?'disabled':''}>»»</button>
+    </div>
+  `;
+  document.getElementById('section-miembros').innerHTML = html;
+}
+function miembrosSortKey(k) {
+  if (miembrosSort.key === k) miembrosSort.dir *= -1;
+  else { miembrosSort.key = k; miembrosSort.dir = -1; }
+  renderMiembros();
+}
+function filterMiembros(val) {
+  const rows = document.querySelectorAll('#section-miembros tbody tr');
+  const q = val.toLowerCase();
+  rows.forEach(row => {
+    row.style.display = row.textContent.toLowerCase().includes(q) ? '' : 'none';
+  });
+}
+
+// ========== SECTION 3: PROMOCIONES ==========
+let activeTags = new Set();
+function setupFilters() {
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const tag = btn.dataset.tag;
+      if (tag === 'all') {
+        activeTags.clear();
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          if (b.dataset.tag === 'all') b.classList.add('active');
+          else b.classList.remove('active');
+        });
+      } else {
+        document.querySelector('.filter-btn[data-tag="all"]').classList.remove('active');
+        if (activeTags.has(tag)) activeTags.delete(tag);
+        else activeTags.add(tag);
+        btn.classList.toggle('active');
+      }
+      renderPromociones();
+    });
+  });
+}
+
+function renderPromociones() {
+  const flayers = DATA.summary.flayers;
+  const catNames = {dinar:'Dinares',gold:'Oro',membership:'Membresías',vaquita:'Vaquita (Comp. Compartida)',bonus:'Bonos',card:'Tarjetas',other:'Otros'};
+  const allTags = ['dinar','gold','membership','vaquita','bonus','card','other'];
+  const isAll = activeTags.size === 0;
+
+  // Filter flayers by selected tags
+  const filtered = flayers.filter(f => {
+    if (isAll) return true;
+    return f.tags.some(t => activeTags.has(t));
+  });
+
+  // Group by tag
+  const groups = {};
+  allTags.forEach(t => groups[t] = []);
+  filtered.forEach(f => {
+    f.tags.forEach(t => { if (groups[t]) groups[t].push(f); });
+  });
+
+  // Remove empty groups if filter is active
+  let tagOrder = allTags.filter(t => !isAll ? activeTags.has(t) : groups[t].length > 0);
+
+  let html = `
+    <div class="filter-bar">
+      <span class="filter-label">Filtrar por categoría:</span>
+      <button class="filter-btn active" data-tag="all">Todas (${DATA.summary.total_purchases})</button>
+      ${allTags.map(t => `<button class="filter-btn" data-tag="${t}"><span class="tag tag-${t}">${catNames[t]}</span> (${DATA.summary.category_totals[t]||0})</button>`).join('')}
+    </div>
+    <div style="margin-bottom:16px;font-size:12px;color:var(--text2)">
+      ${isAll ? `Mostrando todos los ${flayers.length} tipos de promoción` : `Mostrando ${filtered.length} promociones con las etiquetas seleccionadas`}
+    </div>
+  `;
+
+  tagOrder.forEach(tag => {
+    const items = groups[tag];
+    if (!items || items.length === 0) return;
+    const totalDinar = items.reduce((s,f) => s + f.dinar_qty, 0);
+    const totalGold = items.reduce((s,f) => s + f.gold_qty, 0);
+    const totalMemb = items.reduce((s,f) => s + f.membership_qty, 0);
+    const totalCard = items.reduce((s,f) => s + f.card_qty, 0);
+    const totalPurchases = items.reduce((s,f) => s + f.count, 0);
+    const totalAmount = items.reduce((s,f) => s + f.total_amount, 0);
+
+    html += `
+      <div class="flayer-group">
+        <div class="flayer-group-header" onclick="this.nextElementSibling.classList.toggle('open')">
+          <span><span class="tag tag-${tag}">${catNames[tag]}</span> <strong>${items.length}</strong> promociones · <strong>${totalPurchases}</strong> compras</span>
+          <span style="display:flex;gap:14px;align-items:center;font-size:12px">
+            ${totalDinar > 0 ? `<span style="color:var(--accent2)">📦 ${totalDinar.toLocaleString()} dinares</span>` : ''}
+            ${totalGold > 0 ? `<span style="color:var(--orange)">🥇 ${totalGold.toLocaleString()} gold</span>` : ''}
+            ${totalMemb > 0 ? `<span style="color:var(--blue)">🎫 ${totalMemb} membresías</span>` : ''}
+            ${totalCard > 0 ? `<span style="color:var(--green)">💳 ${totalCard} tarjetas</span>` : ''}
+            <span style="color:var(--text2)">$${(totalAmount/1e6).toFixed(1)}M</span>
+            <span class="count-badge">${items.length}</span>
+          </span>
+        </div>
+        <div class="flayer-group-body">
+          ${items.sort((a,b) => b.count - a.count).map(f => `
+            <div class="flayer-row">
+              <div class="name">${f.name} <span style="color:var(--text2);font-size:11px">×${f.count}</span></div>
+              <div class="stats">
+                ${f.dinar_qty > 0 ? `<span style="color:var(--accent2)">📦 ${f.dinar_qty} dinares</span>` : ''}
+                ${f.gold_qty > 0 ? `<span style="color:var(--orange)">🥇 ${f.gold_qty} gold</span>` : ''}
+                ${f.membership_qty > 0 ? `<span style="color:var(--blue)">🎫 ${f.membership_qty}</span>` : ''}
+                ${f.card_qty > 0 ? `<span style="color:var(--green)">💳 ${f.card_qty}</span>` : ''}
+                <span style="color:var(--text2)">$${(f.total_amount||0).toLocaleString()}</span>
+                ${f.tags.filter(t=>t!==tag).map(t => `<span class="tag tag-${t}" style="font-size:10px">${t}</span>`).join('')}
+              </div>
+              ${f.benefit_samples && f.benefit_samples.length ? `<div class="benefit-sample">Ej: ${f.benefit_samples[0]}</div>` : ''}
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  });
+
+  if (filtered.length === 0) {
+    html += `<div class="empty-state">No hay promociones con los filtros seleccionados</div>`;
+  }
+
+  document.getElementById('section-promociones').innerHTML = html;
+  // Re-setup filter buttons after re-render
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const tag = btn.dataset.tag;
+      if (tag === 'all') {
+        activeTags.clear();
+        document.querySelectorAll('.filter-btn').forEach(b => {
+          if (b.dataset.tag === 'all') b.classList.add('active');
+          else b.classList.remove('active');
+        });
+      } else {
+        document.querySelector('.filter-btn[data-tag="all"]').classList.remove('active');
+        if (activeTags.has(tag)) activeTags.delete(tag);
+        else activeTags.add(tag);
+        btn.classList.toggle('active');
+      }
+      renderPromociones();
+    });
+  });
+}
+
+// ========== SECTION 4: CHARTS ==========
+function renderGraficos() {
+  const s = DATA.summary;
+  const members = DATA.members;
+  const catNames = {dinar:'Dinares',gold:'Oro',membership:'Membresías',vaquita:'Vaquita',bonus:'Bonos',card:'Tarjetas',other:'Otros'};
+  const catColors = {dinar:'#2a9d8f',gold:'#d4a017',membership:'#5a8ec4',vaquita:'#8a6fc4',bonus:'#d4758a',card:'#5a9a6a',other:'#8a8578'};
+
+  // Compute payment methods from raw data
+  let payCounts = {};
+  let yearCounts = {};
+  members.forEach(m => m.purchases.forEach(p => {
+    const pm = p.payment || 'Otro';
+    payCounts[pm] = (payCounts[pm] || 0) + 1;
+    const yr = p.year || 0;
+    yearCounts[yr] = (yearCounts[yr] || 0) + 1;
+  }));
+
+  // Payment methods
+  let paySorted = Object.entries(payCounts).sort((a,b) => b[1] - a[1]);
+  let payLabels = paySorted.map(x => x[0]);
+  let payData = paySorted.map(x => x[1]);
+  let payColors = ['#d4a017','#c4956a','#e8a0a0','#a98fcf','#5a8ec4'];
+
+  // Top 10 members
+  let topMembers = [...members].sort((a,b) => b.purchase_count - a.purchase_count).slice(0,10);
+  let topLabels = topMembers.map(m => m.name.length > 18 ? m.name.slice(0,18)+'..' : m.name);
+  let topData = topMembers.map(m => m.purchase_count);
+
+  // Top 10 flayers
+  let topFlayers = [...s.flayers].sort((a,b) => b.count - a.count).slice(0,10);
+  let flLabels = topFlayers.map(f => f.name.length > 22 ? f.name.slice(0,22)+'..' : f.name);
+  let flData = topFlayers.map(f => f.count);
+
+  // Category totals
+  let catLabels = Object.entries(s.category_totals).sort((a,b)=>b[1]-a[1]).map(([k]) => catNames[k]||k);
+  let catData = Object.entries(s.category_totals).sort((a,b)=>b[1]-a[1]).map(([,v]) => v);
+  let catColorsArr = Object.entries(s.category_totals).sort((a,b)=>b[1]-a[1]).map(([k]) => catColors[k]||'#8a8578');
+
+  // Purchases per member distribution
+  let dist = {};
+  members.forEach(m => {
+    const c = m.purchase_count;
+    dist[c] = (dist[c] || 0) + 1;
+  });
+  let distLabels = Object.keys(dist).sort((a,b) => a-b).map(k => k + ' compras');
+  let distData = Object.keys(dist).sort((a,b) => a-b).map(k => dist[k]);
+
+  // Timeline by month
+  let monthCounts = {};
+  members.forEach(m => m.purchases.forEach(p => {
+    if (p.date) {
+      const month = p.date.slice(0, 7);
+      monthCounts[month] = (monthCounts[month] || 0) + 1;
+    }
+  }));
+  let monthLabels = Object.keys(monthCounts).sort();
+  let monthData = monthLabels.map(m => monthCounts[m]);
+
+  let html = `
+    <div class="chart-grid">
+      <div class="chart-card"><h3>🏷️ Compras por Categoría</h3><canvas id="chart-category"></canvas></div>
+      <div class="chart-card"><h3>👥 Top 10 Miembros por Compras</h3><canvas id="chart-top-members"></canvas></div>
+      <div class="chart-card"><h3>🏆 Top 10 Promociones más Vendidas</h3><canvas id="chart-top-flayers"></canvas></div>
+      <div class="chart-card"><h3>💳 Método de Pago</h3><canvas id="chart-payment"></canvas></div>
+      <div class="chart-card"><h3>📊 Distribución de Compras por Miembro</h3><canvas id="chart-distribution"></canvas></div>
+      <div class="chart-card"><h3>📅 Compras en el Tiempo</h3><canvas id="chart-timeline"></canvas></div>
+    </div>
+  `;
+  document.getElementById('section-graficos').innerHTML = html;
+
+  // Destroy old charts
+  Object.values(charts).forEach(c => { if (c) c.destroy(); });
+  charts = {};
+
+  charts.category = new Chart(document.getElementById('chart-category'), {
+    type: 'bar', data: { labels: catLabels, datasets: [{ data: catData, backgroundColor: catColorsArr, borderRadius: 4 }] },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } },
+      scales: { y: { beginAtZero: true, ticks: { color: '#8a8578' } }, x: { ticks: { color: '#8a8578' } } }
+    }
+  });
+
+  charts.topMembers = new Chart(document.getElementById('chart-top-members'), {
+    type: 'bar', data: { labels: topLabels, datasets: [{ data: topData, backgroundColor: '#d4a017', borderRadius: 4 }] },
+    options: { responsive: true, maintainAspectRatio: false, indexAxis: 'y', plugins: { legend: { display: false } },
+      scales: { x: { beginAtZero: true, ticks: { color: '#8a8578' } }, y: { ticks: { color: '#8a8578', font: { size: 11 } } } }
+    }
+  });
+
+  charts.topFlayers = new Chart(document.getElementById('chart-top-flayers'), {
+    type: 'bar', data: { labels: flLabels, datasets: [{ data: flData, backgroundColor: '#c4956a', borderRadius: 4 }] },
+    options: { responsive: true, maintainAspectRatio: false, indexAxis: 'y', plugins: { legend: { display: false } },
+      scales: { x: { beginAtZero: true, ticks: { color: '#8a8578' } }, y: { ticks: { color: '#8a8578', font: { size: 11 } } } }
+    }
+  });
+
+  charts.payment = new Chart(document.getElementById('chart-payment'), {
+    type: 'doughnut', data: { labels: payLabels, datasets: [{ data: payData, backgroundColor: payColors.slice(0,payLabels.length) }] },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { position: 'bottom', labels: { color: '#8a8578' } } } }
+  });
+
+  charts.distribution = new Chart(document.getElementById('chart-distribution'), {
+    type: 'bar', data: { labels: distLabels, datasets: [{ data: distData, backgroundColor: '#a98fcf', borderRadius: 4 }] },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } },
+      scales: { y: { beginAtZero: true, ticks: { color: '#8a8578' } }, x: { ticks: { color: '#8a8578', font: { size: 11 } } } }
+    }
+  });
+
+  charts.timeline = new Chart(document.getElementById('chart-timeline'), {
+    type: 'line', data: { labels: monthLabels, datasets: [{ data: monthData, borderColor: '#d4a017', backgroundColor: 'rgba(212,160,23,0.08)', fill: true, tension: 0.3, pointBackgroundColor: '#d4a017' }] },
+    options: { responsive: true, maintainAspectRatio: false, plugins: { legend: { display: false } },
+      scales: { y: { beginAtZero: true, ticks: { color: '#8a8578' } }, x: { ticks: { color: '#8a8578', font: { size: 11 } } } }
+    }
+  });
+}
+
+// ========== SECTION 5: DETAIL ==========
+let selectedMemberIdx = 0;
+
+function renderDetalle() {
+  const members = DATA.members;
+  let html = `
+    <select id="detalle-select" onchange="changeMember(this.value)">
+      <option value="">Seleccione un miembro...</option>
+      ${members.map((m,i) => `<option value="${i}" ${i===selectedMemberIdx?'selected':''}>${m.name} — ${m.purchase_count} compras — $${(m.total_spent||0).toLocaleString()}</option>`).join('')}
+    </select>
+    <div id="detalle-content"></div>
+  `;
+  document.getElementById('section-detalle').innerHTML = html;
+  if (selectedMemberIdx >= 0 && members[selectedMemberIdx]) {
+    showMemberDetail(members[selectedMemberIdx], selectedMemberIdx);
+  }
+}
+
+function changeMember(val) {
+  if (val === '') { document.getElementById('detalle-content').innerHTML = ''; return; }
+  selectedMemberIdx = parseInt(val);
+  showMemberDetail(DATA.members[selectedMemberIdx], selectedMemberIdx);
+}
+
+function showMemberDetail(member, idx) {
+  const tagsList = [...new Set(member.purchases.flatMap(p => p.tags))];
+  const totalDinar = member.purchases.reduce((s,p) => s + p.dinar_qty, 0);
+  const totalGold = member.purchases.reduce((s,p) => s + p.gold_qty, 0);
+  const totalMemb = member.purchases.reduce((s,p) => s + p.membership_qty, 0);
+  const totalCard = member.purchases.reduce((s,p) => s + p.card_qty, 0);
+
+  let html = `
+    <div class="member-detail">
+      <h3>${member.name}</h3>
+      <div class="info-grid">
+        <div class="info-item"><label>Cédula</label><span>${member.cedula || '—'}</span></div>
+        <div class="info-item"><label>Email</label><span>${member.email || '—'}</span></div>
+        <div class="info-item"><label>Teléfono</label><span>${member.phone || '—'}</span></div>
+        <div class="info-item"><label>Telegram</label><span>${member.telegram || '—'}</span></div>
+        <div class="info-item"><label>Ubicación</label><span>${[member.city, member.department, member.country].filter(Boolean).join(', ') || '—'}</span></div>
+        <div class="info-item"><label>Nacimiento</label><span>${member.birthdate || '—'}</span></div>
+      </div>
+      <div style="margin-bottom:12px">
+        <strong style="font-size:14px">${member.purchase_count} compras</strong>
+        <span style="color:var(--text2);margin-left:12px">Total: $${(member.total_spent||0).toLocaleString()}</span>
+        <span style="margin-left:12px">${tagsList.map(t => `<span class="tag tag-${t}">${t}</span>`).join(' ')}</span>
+      </div>
+      ${totalDinar > 0 || totalGold > 0 || totalMemb > 0 || totalCard > 0 ? `
+        <div style="display:flex;gap:16px;font-size:13px;margin-bottom:14px;flex-wrap:wrap">
+          ${totalDinar > 0 ? `<span style="color:var(--accent2)">📦 Total dinares recibidos: <strong>${totalDinar}</strong></span>` : ''}
+          ${totalGold > 0 ? `<span style="color:var(--orange)">🥇 Total gold recibidos: <strong>${totalGold}</strong></span>` : ''}
+          ${totalMemb > 0 ? `<span style="color:var(--blue)">🎫 Total membresías: <strong>${totalMemb}</strong></span>` : ''}
+          ${totalCard > 0 ? `<span style="color:var(--green)">💳 Total tarjetas: <strong>${totalCard}</strong></span>` : ''}
+        </div>` : ''
+      }
+      <div class="table-wrap">
+        <table>
+          <thead><tr>
+            <th>#</th><th>Fecha</th><th>Promoción</th><th>Beneficio (Col N)</th><th class="text-right">Monto</th><th>Pago</th><th>Tags</th><th>Líder</th>
+          </tr></thead>
+          <tbody>
+            ${member.purchases.map((p,i) => `
+              <tr>
+                <td>${i+1}</td>
+                <td style="white-space:nowrap">${p.date || '—'}</td>
+                <td style="max-width:220px">${p.flayer}</td>
+                <td style="max-width:260px;font-size:12px;color:var(--text2)">${p.benefit_text ? p.benefit_text.slice(0,80) + (p.benefit_text.length>80?'...':'') : '—'}</td>
+                <td class="text-right">${p.amount ? '$' + p.amount.toLocaleString() : '—'}</td>
+                <td>${p.payment || '—'}</td>
+                <td>${p.tags.map(t => `<span class="tag tag-${t}">${t}</span>`).join(' ')}</td>
+                <td style="color:var(--text2);font-size:12px">${p.leader || '—'}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  `;
+  document.getElementById('detalle-content').innerHTML = html;
+}
+
+</script>
+</body>
+</html>
